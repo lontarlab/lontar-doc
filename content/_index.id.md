@@ -4,8 +4,6 @@ title = "Lontar Doc"
 # The homepage contents
 [extra]
 lead = '<b>Lontar Doc</b> Menguatkan skill teknis melalui Blog dan Dokumentasi teknis'
-url = "/docs/getting-started/introduction/"
-url_button = "Mulai"
 
 [[extra.menu.main]]
 name = "Blog"
@@ -21,9 +19,6 @@ content = 'Sing pasti dapet skor 100 di <a href="https://googlechrome.github.io/
 title = "Mendukung Multi Bahasa"
 content = "Setiap halaman dan blog didukung oleh multi bahasa"
 
-[[extra.list]]
-title = "Full text search"
-content = "Full text search dengan vanilla JS! Search yang dibutuhkan dengan gampang"
 
 [[extra.list]]
 title = "Mendukung Multi Penulis"

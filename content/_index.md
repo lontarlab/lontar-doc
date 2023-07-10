@@ -4,8 +4,6 @@ title = "Lontar Doc"
 # The homepage contents
 [extra]
 lead = '<b>Lontar Doc</b> Empowering Technical Excellence through Engaging Documentation and Blogging'
-url = "/docs/getting-started/introduction/"
-url_button = "Get started"
 
 [[extra.menu.main]]
 name = "Blog"
@@ -20,10 +18,6 @@ content = 'Get 100 scores on <a href="https://googlechrome.github.io/lighthouse/
 [[extra.list]]
 title = "Multi Language Support"
 content = "Write Blog and Doc in multiple languages with ease!"
-
-[[extra.list]]
-title = "Full text search"
-content = "Full text search with vanilla JS! Easily find what you need"
 
 [[extra.list]]
 title = "Multi Author Support"

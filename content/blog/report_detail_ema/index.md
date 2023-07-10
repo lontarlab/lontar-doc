@@ -1,6 +1,6 @@
 +++
 title = "The quest to export report detail with range"
-description = "Introducing Doks, a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+description = "The dramatic story (not really) of coping with postgre performance"
 date = 2023-07-10T09:19:42+00:00
 updated = 2023-07-10T09:19:42+00:00
 draft = false
@@ -43,7 +43,7 @@ After putting the feature on the back burner and juggling other priorities and p
 
 Upon examining the current implementation, it became painfully clear that it was ill-equipped to handle anything beyond a measly month of data. As I peered into the depths of the report data view, a sinking feeling washed over me.
 
-```
+```sql
 CREATE OR REPLACE VIEW public."laporanPenjualanDetailNew"
  AS
 ( SELECT r.id,
