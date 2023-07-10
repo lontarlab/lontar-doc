@@ -139,7 +139,7 @@ weight = 10
 [languages.id]
 title="lontar Doc"
 generate_feed = true
-build_search_index = true
+build_search_index = false
 taxonomies = [
     {name = "authors"},
 ]
