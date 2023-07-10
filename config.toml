@@ -1,9 +1,6 @@
 # The URL the site will be built for
-[build]
-publish = "public"
-command = "zola build"
 
-base_url = "https://adidoks.netlify.com"
+base_url = "https://lontar-doc.netlify.com"
 title = "lontar Doc"
 description = "AdiDoks is a Zola theme helping you build modern documentation websites, which is a port of the Hugo theme Doks for Zola."
 
