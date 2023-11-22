@@ -15,11 +15,7 @@
 				<ul class="list-inline">
 					{% if config.extra.footer.nav %}
 						{% for val in config.extra.footer.nav %}
-		          {% if lang == config.default_language %}
 							<li class="list-inline-item"><a href="{{ get_url(path=val.url, trailing_slash=true) | safe }}">{{ val.name }}</a></li>
-		          {% else %}
-              <li class="list-inline-item"><a href="{{ get_url(path=val.url_id, trailing_slash=true) | safe }}">{{ val.name }}</a></li>
-		          {% endif %}
 						{% endfor %}
 					{% endif %}
 				</ul>
