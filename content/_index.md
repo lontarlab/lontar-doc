@@ -1,9 +1,9 @@
 +++
-title = "Lontar Doc"
+title = "lontar Doc"
 
 # The homepage contents
 [extra]
-lead = '<b>Lontar Doc</b> Empowering Technical Excellence through Engaging Documentation and Blogging'
+lead = '<b>lontar Doc</b> Empowering Technical Excellence through Engaging Documentation and Blogging'
 
 [[extra.menu.main]]
 name = "Blog"
