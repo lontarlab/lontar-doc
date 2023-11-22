@@ -7,6 +7,8 @@ draft = false
 
 [extra.author_pages]
 "posei" = "authors/posei.md"
+"ramenaru" = "authors/posei.md"
+
 
 [[extra.menu.main]]
 name = "Blog"

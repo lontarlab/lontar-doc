@@ -7,6 +7,7 @@ draft = false
 
 [extra.author_pages]
 "posei" = "authors/posei.md"
+"ramenaru" = "authors/ramenaru.md"
 +++
 
 The authors of the blog articles.
