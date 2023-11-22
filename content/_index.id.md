@@ -11,6 +11,12 @@ section = "blog"
 url = "id/blog/"
 weight = 20
 
+[[extra.menu.main]] 
+name = "Docs" 
+section = "docs" 
+url = "id/docs/ema_web/introduction/" 
+weight = 10
+
 [[extra.list]]
 title = "Cepat dari pabriknya ⚡️"
 content = 'Sing pasti dapet skor 100 di <a href="https://googlechrome.github.io/lighthouse/viewer/?gist=7731347bb8ce999eff7428a8e763b637">Google Lighthouse</a>. 100% Organic HTML'

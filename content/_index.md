@@ -11,6 +11,12 @@ section = "blog"
 url = "/blog/"
 weight = 20
 
+[[extra.menu.main]] 
+name = "Docs" 
+section = "docs" 
+url = "/docs/ema_web/introduction/" 
+weight = 10
+
 [[extra.list]]
 title = "Fast by default ⚡️"
 content = 'Get 100 scores on <a href="https://googlechrome.github.io/lighthouse/viewer/?gist=7731347bb8ce999eff7428a8e763b637">Google Lighthouse</a> by default. 100% Organic HTML'
