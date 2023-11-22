@@ -4,7 +4,7 @@
 - SCSS
 - Git
 
-## Clone the project
+## Clone the project 
 ### Using github
 `git clone https://lontarlab.com/lontar-docs`
 
